@@ -1,0 +1,137 @@
+[
+   {
+      "id":1,
+      "trops_name":"Barbarian",
+      "attack_type":"Ground",
+      "hitpoint":2596,
+      "favourite_target":"defence",
+      "img":"https://www.vhv.rs/dpng/d/461-4612693_clash-of-clans-characters-barbarian-level-6-download.png",
+      "cost":1119
+   },
+   {
+      "id":2,
+      "trops_name":"Dragon",
+      "attack_type":"Ground & Air",
+      "hitpoint":2300,
+      "favourite_target":"Any",
+      "img":"https://www.pngitem.com/pimgs/m/32-325118_transparent-coc-png-coc-dragon-level-7-png.png",
+      "cost":14000
+   },
+   {
+      "id":3,
+      "trops_name":"P.E.K.K.A",
+      "attack_type":"Ground",
+      "hitpoint":4000,
+      "favourite_target":"Any",
+      "img":"https://i.pinimg.com/originals/2f/26/cf/2f26cfd6c7f2f4bd1bc185df8221068d.jpg",
+      "cost":20000
+   },
+   {
+      "id":4,
+      "trops_name":"Wall Breaker",
+      "attack_type":"Ground",
+      "hitpoint":53,
+      "favourite_target":"walls",
+      "img":"https://www.teahub.io/photos/full/252-2523704_clash-of-clans-clash-royale-troop-wikia-bomb.jpg",
+      "cost":1400
+   },
+   {
+      "id":5,
+      "trops_name":"Gollem",
+      "attack_type":"Ground",
+      "hitpoint":2567,
+      "favourite_target":"Defence",
+      "img":"https://toppng.com/uploads/preview/olem-coc-gowipe-attack-coc-clash-of-clans-clash-golem-clash-royale-11563611190phqa4m3pg1.png",
+      "cost":350
+   },
+   {
+      "id":6,
+      "trops_name":"Witch",
+      "attack_type":"Ground & Air",
+      "hitpoint":1784,
+      "favourite_target":"Any",
+      "img":"https://i.pinimg.com/originals/74/e3/fc/74e3fcb430de723c2ef967cae7d15297.jpg",
+      "cost":4904
+   },
+   {
+      "id":7,
+      "trops_name":"Ballon",
+      "attack_type":"Air",
+      "hitpoint":545,
+      "favourite_target":"Defence",
+      "img":"https://png.pngitem.com/pimgs/s/47-471565_clash-of-clans-balloon-png-transparent-png-clash.png",
+      "cost":4863
+   },
+   {
+      "id":8,
+      "trops_name":"Hog Rider",
+      "attack_type":"Ground",
+      "hitpoint":415,
+      "favourite_target":"defence",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS34BaHykQLS4LdPpH65LtkPv5W6aLLpjsQdg&usqp=CAU",
+      "cost":42
+   },
+   {
+      "id":9,
+      "trops_name":"Healer",
+      "attack_type":"Area Splash",
+      "hitpoint":870,
+      "favourite_target":"Any",
+      "img":"https://www.vhv.rs/dpng/d/457-4578624_clash-of-clans-png-download-clash-of-clans.png",
+      "cost":4550
+   },
+   {
+      "id":10,
+      "trops_name":"Lava Hound",
+      "attack_type":"Air",
+      "hitpoint":6903,
+      "favourite_target":"Air Defence",
+      "img":"https://www.pngkey.com/png/detail/360-3605035_clash-of-clan-lava-hound.png",
+      "cost":390
+   },
+   {
+      "id":11,
+      "trops_name":"Bowler",
+      "attack_type":"Ground",
+      "hitpoint":463,
+      "favourite_target":"Any",
+      "img":"https://i.pinimg.com/564x/f4/fc/86/f4fc864baf720011066ad347476deb43.jpg",
+      "cost":70
+   },
+   {
+      "id":12,
+      "trops_name":"Ice Golem",
+      "attack_type":"Ground",
+      "hitpoint":2782,
+      "favourite_target":"Defence",
+      "img":"https://pbs.twimg.com/media/Dt1L7QKXQAASjdn.png",
+      "cost":220
+   },
+   {
+      "id":13,
+      "trops_name":"light Spell",
+      "attack_type":"Area Splash",
+      "hitpoint":177,
+      "favourite_target":"Any",
+      "img":"https://i.pinimg.com/originals/63/d0/bb/63d0bbb3883b5122cd044d8d4b26ccba.png",
+      "cost":4242
+   },
+   {
+      "id":14,
+      "trops_name":"Heal spell",
+      "attack_type":"Flossy",
+      "hitpoint":1032,
+      "favourite_target":"Any",
+      "img":"https://lh3.googleusercontent.com/proxy/y2kkfcLtVzJskTOqHEN1QMybl2kCtoGSIfrADxggyncKyB-G1IuDrldHeSxR-7LyvW6HiSRq0V4mZMfkH4-4IYfVh4ba1gPxY7u1klDfrH_ksftyyQ",
+      "cost":2335
+   },
+   {
+      "id":15,
+      "trops_name":"Rage Spell",
+      "attack_type":"Area Splash",
+      "hitpoint":756,
+      "favourite_target":"Any",
+      "img":"https://static.wikia.nocookie.net/clashroyale/images/1/1c/RageCard.png/revision/latest?cb=20171212203637",
+      "cost":4890
+   }
+]

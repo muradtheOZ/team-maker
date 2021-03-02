@@ -1,0 +1,9 @@
+.customCard img{
+    padding: 5px;
+     height: 200px;
+    object-fit: contain;
+
+}
+.customCard{
+    width: 300px;
+}

@@ -1,0 +1,9 @@
+.customBox{
+    
+    height: 150px;
+   overflow: scroll;
+
+}
+.custom-width{
+    width: 20%;
+}
