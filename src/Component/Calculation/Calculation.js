@@ -19,7 +19,7 @@ const Calculation = (props) => {
                 </div>
 
             </div>
-            <div className="row customBox align-self-center">
+            <div className="row customBox ">
 
                 {
                     props.troop.map(troop => {

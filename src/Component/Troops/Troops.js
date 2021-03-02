@@ -8,7 +8,7 @@ const Troops = (props) => {
     const handleAddTroops = props.handleAddTroops;
 
     return (
-        <div className="col-md-3">
+        <div className="col-md-3 align-self-center">
             <div className="card customCard p-3 m-3">
                 <img src={img} className="card-imgTop" alt="..."></img>
                 <div className="card-body">

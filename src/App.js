@@ -13,7 +13,7 @@ function App() {
 
 
   return (
-   <div>
+   <div className="align-self-center">
     <Header></Header>
     <ManageTrops></ManageTrops>
     </div>

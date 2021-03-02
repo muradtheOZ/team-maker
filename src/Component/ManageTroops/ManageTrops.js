@@ -13,13 +13,16 @@ const ManageTrops = () => {
       },[])
 
         const[cartTroops,setCartTroops] = useState([])
-        const handleAddTroops =(troops)=>{
-            const newTotal= [...cartTroops,troops]
+        const handleAddTroops =(troop)=>{
+          let item = cartTroops.indexOf(troop);
+          if(item === -1){
+            const newTotal= [...cartTroops,troop]
             setCartTroops(newTotal);
          
+          }
       }
     return (
-   <div>
+   <div className ="align-self-center">
        <div className= "text-center  bg-light p-2 m-3 sticky-top">
         <Calculation troop={cartTroops}></Calculation>
       </div> 
