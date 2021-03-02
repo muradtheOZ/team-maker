@@ -1,7 +1,7 @@
 import React from 'react';
 import './Troops.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {  faPlus} from '@fortawesome/free-solid-svg-icons'
+import { faArrowRight} from '@fortawesome/free-solid-svg-icons'
 
 const Troops = (props) => {
     const { trops_name, favourite_target, hitpoint, cost, attack_type, img } = props.troops;
@@ -17,7 +17,7 @@ const Troops = (props) => {
                     <p className="card-text"> favorite Target: {favourite_target}</p>
                     <p className="card-text">Hit point: {hitpoint}</p>
                     <p className="card-text">Cost: $ {cost}</p>
-                    <button onClick={() => handleAddTroops(props.troops)} className="btn btn-warning"> Add <FontAwesomeIcon icon={faPlus}/></button>
+                    <button onClick={() => handleAddTroops(props.troops)} className="btn btn-warning"> Add <FontAwesomeIcon icon={faArrowRight}/></button>
                 </div>
 
             </div>
