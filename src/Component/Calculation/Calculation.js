@@ -6,7 +6,10 @@ const Calculation = (props) => {
     const cart = props
     //    console.log(cart)
     let salary = 0;
+    let selectedPlayer = 0
     props.troop.map(troop => salary += troop.cost)
+    props.troop.map(troop => selectedPlayer += 1)
+    
 
     return (
         <div>
@@ -20,17 +23,17 @@ const Calculation = (props) => {
 
             </div>
             <div className="row customBox ">
+                <h5>Total Troops: {selectedPlayer}</h5>
 
                 {
                     props.troop.map(troop => {
                         return (
-                            <div className=" custom-width m-2 p-2  bg-warning">
+                                <div className=" custom-width m-2 p-2  bg-warning">
                             <div>
                                 <h5>{troop.trops_name}</h5>
                                 <p><small>{troop.cost}</small></p>
                             </div>
                             </div>
-                           
 
                         )
                     })
